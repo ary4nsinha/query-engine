@@ -1,0 +1,10 @@
+# Ignore all JSON files
+*.json
+
+# Ignore Python cache folders
+__pycache__/
+pycache/
+*.py[cod]
+
+# Ignore Mac system files
+.DS_Store
