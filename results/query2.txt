@@ -1,0 +1,17 @@
+Executing query2...
+Using 16 CPU cores for processing
+Starting JSON parsing with 16 processes...
+Executing Query 2: Trip Distance Filter with Payment Type Grouping
+Parsing completed: 20,332,093 records in 201.55 seconds
+Average speed: 100880.72 records/second
+Query processing complete: 20,332,093 records processed, 3,325,300 records matched filter
+Processing time: 201.55 seconds (100880.71 records/sec)
+
+Query Result:
+Payment_type: 0, num_trips: 325550, avg_fare: 35.56, total_tip: 621999.07
+Payment_type: 1, num_trips: 2460202, avg_fare: 50.04, total_tip: 24342962.61
+Payment_type: 2, num_trips: 460863, avg_fare: 48.71, total_tip: 3311.95
+Payment_type: 3, num_trips: 16865, avg_fare: 17.34, total_tip: 857.78
+Payment_type: 4, num_trips: 61820, avg_fare: 3.24, total_tip: 7660.67
+
+Total execution time: 201.55 seconds

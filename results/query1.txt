@@ -1,0 +1,13 @@
+Executing query1...
+Using 16 CPU cores for processing
+Starting JSON parsing with 16 processes...
+Parsing completed: 20,332,093 records in 21.31 seconds
+Average speed: 953891.63 records/second
+Executing Query 1: Count total records
+Using pre-counted total: 20,332,093 records
+Query complete: 20,332,093 records in 0.00 seconds
+
+Query Result:
+total_trips: 20332093
+
+Total execution time: 21.32 seconds

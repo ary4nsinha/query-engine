@@ -1,0 +1,14 @@
+Executing query3...
+Using 16 CPU cores for processing
+Starting JSON parsing with 16 processes...
+Executing Query 3: Store-and-Forward Flag and Date Filter with Vendor Grouping
+Parsing completed: 20,332,093 records in 196.40 seconds
+Average speed: 103524.87 records/second
+Query processing complete: 20,332,093 records processed, 11,336 records matched filter
+Processing time: 196.40 seconds (103524.86 records/sec)
+
+Query Result:
+VendorID: 1, trips: 10104, avg_passengers: 1.21
+VendorID: 2, trips: 1232, avg_passengers: 1.22
+
+Total execution time: 196.40 seconds

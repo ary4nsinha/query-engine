@@ -1,0 +1,43 @@
+Executing query4...
+Using 16 CPU cores for processing
+Starting JSON parsing with 16 processes...
+Executing Query 4: Daily Statistics for January 2024
+Parsing completed: 20,332,093 records in 212.27 seconds
+Average speed: 95783.81 records/second
+Query processing complete: 20,332,093 records processed, 2,964,617 records matched filter
+Processing time: 212.27 seconds (95783.79 records/sec)
+
+Query Result:
+trip_date: 2024-01-01, total_trips: 81013, avg_passengers: 1.35, avg_distance: 4.40, avg_fare: 21.79, total_tip: 264284.64
+trip_date: 2024-01-02, total_trips: 75519, avg_passengers: 1.38, avg_distance: 4.12, avg_fare: 20.97, total_tip: 265859.38
+trip_date: 2024-01-03, total_trips: 82427, avg_passengers: 1.35, avg_distance: 3.88, avg_fare: 19.66, total_tip: 277524.60
+trip_date: 2024-01-04, total_trips: 102901, avg_passengers: 1.32, avg_distance: 3.31, avg_fare: 18.42, total_tip: 339759.10
+trip_date: 2024-01-05, total_trips: 103178, avg_passengers: 1.33, avg_distance: 3.75, avg_fare: 17.83, total_tip: 333356.72
+trip_date: 2024-01-06, total_trips: 97117, avg_passengers: 1.38, avg_distance: 3.13, avg_fare: 17.31, total_tip: 295446.20
+trip_date: 2024-01-07, total_trips: 67543, avg_passengers: 1.37, avg_distance: 3.88, avg_fare: 19.45, total_tip: 236380.09
+trip_date: 2024-01-08, total_trips: 80034, avg_passengers: 1.26, avg_distance: 3.51, avg_fare: 18.70, total_tip: 273058.90
+trip_date: 2024-01-09, total_trips: 93962, avg_passengers: 1.17, avg_distance: 3.83, avg_fare: 16.90, total_tip: 286757.16
+trip_date: 2024-01-10, total_trips: 95000, avg_passengers: 1.23, avg_distance: 3.35, avg_fare: 17.92, total_tip: 323644.98
+trip_date: 2024-01-11, total_trips: 105010, avg_passengers: 1.25, avg_distance: 3.59, avg_fare: 18.56, total_tip: 370943.91
+trip_date: 2024-01-12, total_trips: 103655, avg_passengers: 1.30, avg_distance: 4.23, avg_fare: 18.55, total_tip: 360971.76
+trip_date: 2024-01-13, total_trips: 104758, avg_passengers: 1.38, avg_distance: 3.77, avg_fare: 17.28, total_tip: 337550.18
+trip_date: 2024-01-14, total_trips: 94420, avg_passengers: 1.36, avg_distance: 3.31, avg_fare: 17.87, total_tip: 308173.54
+trip_date: 2024-01-15, total_trips: 77033, avg_passengers: 1.31, avg_distance: 3.73, avg_fare: 19.30, total_tip: 279363.87
+trip_date: 2024-01-16, total_trips: 93057, avg_passengers: 1.20, avg_distance: 3.72, avg_fare: 19.17, total_tip: 332362.84
+trip_date: 2024-01-17, total_trips: 110365, avg_passengers: 1.19, avg_distance: 3.83, avg_fare: 18.20, total_tip: 369867.43
+trip_date: 2024-01-18, total_trips: 110358, avg_passengers: 1.21, avg_distance: 3.01, avg_fare: 17.90, total_tip: 370351.39
+trip_date: 2024-01-19, total_trips: 95951, avg_passengers: 1.28, avg_distance: 3.01, avg_fare: 17.22, total_tip: 311721.26
+trip_date: 2024-01-20, total_trips: 108768, avg_passengers: 1.31, avg_distance: 3.54, avg_fare: 16.53, total_tip: 318073.76
+trip_date: 2024-01-21, total_trips: 84502, avg_passengers: 1.30, avg_distance: 4.82, avg_fare: 18.43, total_tip: 282291.99
+trip_date: 2024-01-22, total_trips: 85650, avg_passengers: 1.22, avg_distance: 3.40, avg_fare: 18.54, total_tip: 295781.63
+trip_date: 2024-01-23, total_trips: 99891, avg_passengers: 1.21, avg_distance: 2.97, avg_fare: 17.68, total_tip: 335802.68
+trip_date: 2024-01-24, total_trips: 105120, avg_passengers: 1.22, avg_distance: 3.51, avg_fare: 17.72, total_tip: 360508.69
+trip_date: 2024-01-25, total_trips: 110318, avg_passengers: 1.21, avg_distance: 3.98, avg_fare: 18.26, total_tip: 383378.98
+trip_date: 2024-01-26, total_trips: 105804, avg_passengers: 1.27, avg_distance: 3.38, avg_fare: 17.82, total_tip: 354378.41
+trip_date: 2024-01-27, total_trips: 110515, avg_passengers: 1.36, avg_distance: 2.82, avg_fare: 16.82, total_tip: 342094.05
+trip_date: 2024-01-28, total_trips: 92837, avg_passengers: 1.28, avg_distance: 3.33, avg_fare: 18.07, total_tip: 297860.55
+trip_date: 2024-01-29, total_trips: 84547, avg_passengers: 1.23, avg_distance: 3.40, avg_fare: 18.54, total_tip: 296439.16
+trip_date: 2024-01-30, total_trips: 101233, avg_passengers: 1.21, avg_distance: 6.03, avg_fare: 17.33, total_tip: 339472.65
+trip_date: 2024-01-31, total_trips: 102131, avg_passengers: 1.21, avg_distance: 3.16, avg_fare: 17.53, total_tip: 346143.63
+
+Total execution time: 212.27 seconds
