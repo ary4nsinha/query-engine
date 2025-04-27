@@ -8,3 +8,5 @@ pycache/
 
 # Ignore Mac system files
 .DS_Store
+run.sh
+*.sh
